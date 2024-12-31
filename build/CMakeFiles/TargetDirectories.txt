@@ -1,0 +1,11 @@
+/home/jpowell/SoftwareDev/AssemblyNodes/build/CMakeFiles/imgui.dir
+/home/jpowell/SoftwareDev/AssemblyNodes/build/CMakeFiles/imgui_app.dir
+/home/jpowell/SoftwareDev/AssemblyNodes/build/CMakeFiles/WindowTest.dir
+/home/jpowell/SoftwareDev/AssemblyNodes/build/CMakeFiles/clean-all.dir
+/home/jpowell/SoftwareDev/AssemblyNodes/build/CMakeFiles/edit_cache.dir
+/home/jpowell/SoftwareDev/AssemblyNodes/build/CMakeFiles/rebuild_cache.dir
+/home/jpowell/SoftwareDev/AssemblyNodes/build/external/glm/CMakeFiles/edit_cache.dir
+/home/jpowell/SoftwareDev/AssemblyNodes/build/external/glm/CMakeFiles/rebuild_cache.dir
+/home/jpowell/SoftwareDev/AssemblyNodes/build/external/glm/glm/CMakeFiles/glm.dir
+/home/jpowell/SoftwareDev/AssemblyNodes/build/external/glm/glm/CMakeFiles/edit_cache.dir
+/home/jpowell/SoftwareDev/AssemblyNodes/build/external/glm/glm/CMakeFiles/rebuild_cache.dir

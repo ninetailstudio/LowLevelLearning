@@ -1,0 +1,4 @@
+add_executable(imgui_app ${SOURCES} ${IMGUI_SOURCES})
+# CMakeLists.txt
+add_executable(WindowTest test/WindowTest.cpp src/Window.cpp)
+target_link_libraries(WindowTest glfw GLEW GL) # Adjust libraries as needed

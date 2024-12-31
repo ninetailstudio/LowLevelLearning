@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra CMakeFiles/WindowTest.dir/test/WindowTest.cpp.o CMakeFiles/WindowTest.dir/src/Window.cpp.o -o WindowTest  libimgui.a /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 -lGLEW /usr/lib/x86_64-linux-gnu/libGL.so 

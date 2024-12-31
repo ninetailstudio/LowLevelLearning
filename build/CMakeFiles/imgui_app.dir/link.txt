@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra CMakeFiles/imgui_app.dir/src/main.cpp.o CMakeFiles/imgui_app.dir/src/Window.cpp.o CMakeFiles/imgui_app.dir/src/Application.cpp.o CMakeFiles/imgui_app.dir/src/GUIElements.cpp.o -o imgui_app  libimgui.a /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 -lGLEW /usr/lib/x86_64-linux-gnu/libGL.so -ldl external/glm/glm/libglm.a 
